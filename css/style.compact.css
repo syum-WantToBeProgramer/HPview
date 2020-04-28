@@ -1,5 +1,7 @@
 @charset "UTF-8";
-* { padding: 0; margin: 0; font-family: source-han-sans-japanese,YuGothic,'Yu Gothic','ヒラギノ角ゴシック','Hiragino Sans','Helvetica Neue','Helvetica','Arial',sans-serif; font-weight: 400; font-style: normal; line-height: 1.4; }
+root { font-size: 16px; }
+
+* { padding: 0; margin: 0; font-family: source-han-sans-japanese,YuGothic,'Yu Gothic','ヒラギノ角ゴシック','Hiragino Sans','Helvetica Neue','Helvetica','Arial',sans-serif; font-weight: 400; font-style: normal; line-height: 1.75; }
 
 html { width: 100%; }
 
@@ -36,3 +38,9 @@ a .a-style1:hover { background-color: transparent; color: #38c9a7; }
 .c-sub2c { color: #40a38c; }
 
 .ls-1px { letter-spacing: 1px; }
+
+.ls-5px { letter-spacing: 5px; }
+
+.ls-25px { letter-spacing: 25px; }
+
+.ls-35px { letter-spacing: 35px; }
